@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dr-imtiaz-ahmed/Dr.-Imtiaz-Ahmed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dr-imtiaz-ahmed/Dr.-Imtiaz-Ahmed/issues"
+  },
+  "homepage": "https://github.com/dr-imtiaz-ahmed/Dr.-Imtiaz-Ahmed#readme",
+  "dependencies": {
+    "docx": "^9.6.1"
+  }
+}
